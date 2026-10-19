@@ -1,0 +1,23 @@
+id,data,cliente_id,tipo,valor,descricao,categoria
+1,2026-01-05,CLI001,credito,3500.00,Salário janeiro,salario
+2,2026-01-12,CLI002,debito,180.50,Supermercado,compra
+3,2026-01-18,CLI003,debito,320.00,Conta de luz,conta
+4,2026-01-22,CLI001,debito,89.90,Streaming,assinatura
+5,2026-01-28,CLI002,credito,1200.00,Freelance janeiro,servico
+6,2026-02-03,CLI001,credito,3500.00,Salário fevereiro,salario
+7,2026-02-10,CLI003,credito,15000.00,Transferência recebida,transferencia
+8,2026-02-14,CLI002,debito,450.00,Aluguel,conta
+9,2026-02-20,CLI001,debito,250.00,Farmácia,saude
+10,2026-03-05,CLI001,credito,3500.00,Salário março,salario
+11,2026-03-10,CLI003,debito,99.90,Streaming,assinatura
+12,2026-03-15,CLI002,credito,12500.00,Bônus trimestral,salario
+13,2026-03-22,CLI001,debito,600.00,Supermercado,compra
+14,2026-04-02,CLI001,credito,3500.00,Salário abril,salario
+15,2026-04-08,CLI002,debito,180.50,Supermercado,compra
+16,2026-04-15,CLI003,debito,750.00,Academia anual,assinatura
+17,2026-04-25,CLI001,debito,1100.00,Viagem,lazer
+,2026-05-10,CLI004,credito,200.00,Sem ID,transferencia
+18,2026-05-12,,credito,200.00,Sem cliente,transferencia
+19,15/06/2026,CLI005,credito,500.00,Data errada,salario
+20,2026-06-20,CLI005,transferencia,300.00,Tipo inválido,transferencia
+21,2026-06-25,CLI006,debito,abc,Valor inválido,compra
